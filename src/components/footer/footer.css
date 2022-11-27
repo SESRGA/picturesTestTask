@@ -1,0 +1,19 @@
+.footer {
+  height: 96px;
+  padding-left: 15%;
+  padding-right: 15%;
+  background: #ECEAEA;
+  display: flex;
+}
+
+.contacts {
+  color: #555555;
+  width: 25%;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+
+.contactsText {
+  margin-left: 10px;
+}

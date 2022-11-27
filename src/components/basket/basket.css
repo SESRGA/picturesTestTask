@@ -1,0 +1,19 @@
+.basket {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.basketCount {
+  height: 14px;
+  width: 14px;
+  border-radius: 50%;
+  background-color: #403432;
+  color: white;
+  font-size: 12px;
+  position: absolute;
+  margin-left: 25px;
+  margin-bottom: 25px;
+}

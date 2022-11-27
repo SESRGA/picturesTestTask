@@ -1,0 +1,78 @@
+.card {
+  border: solid #E1E1E1 1px;
+  height: 100%;
+  position: relative;
+}
+
+.soldOut {
+  opacity: 50%;
+}
+
+.image {
+  width: 100%;
+}
+
+.textBlock {
+  padding-top: 15px;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.naming {
+  margin: auto;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.soldText {
+  font-weight: 700;
+}
+
+.previousPriceText {
+  text-decoration: line-through;
+  color: #A0A0A0;
+  font-size: 14px;
+  line-height: 21px;
+  margin: auto;
+}
+
+.currentPriceText{
+  margin: auto;
+}
+
+.priceBlock {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.priceSection {
+  width: 50%;
+}
+
+.buttonSection{
+  width: 50%;
+  justify-content: center;
+}
+
+.buyButton {
+  height: 44px;
+  color: white;
+  background-color: #403432;
+  cursor: pointer;
+  width: 80%;
+  margin: auto;
+}
+
+.buyButtonColor {
+  background-color: #403432;
+}
+
+.cancelButtonColor {
+  background-color: #5B3A32;
+}
+

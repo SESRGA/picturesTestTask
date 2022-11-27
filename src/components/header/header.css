@@ -1,0 +1,7 @@
+.header {
+  padding-left: 15%;
+  padding-right: 15%;
+  border-bottom: solid #E1E1E1 1px;
+  display: flex;
+  height: 97px;
+}
